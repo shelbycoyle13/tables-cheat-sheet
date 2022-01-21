@@ -1,0 +1,33 @@
+html {
+  font-family: sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h2 {
+  color: green;
+}
+
+table {
+  border: 3px solid green;
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+thead {
+  background-color: yellowgreen;
+}
+
+td {
+  border-top: 1px solid green;
+}
+
+.highlight {
+  font-family: monospace;
+  background-color: rgb(165, 224, 165);
+}
+
+body {
+  background-color: lightgray;
