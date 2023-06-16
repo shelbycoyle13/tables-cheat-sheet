@@ -1,33 +1,35 @@
 html {
-  font-family: sans-serif;
+    font-family: sans-serif;
 }
 
-h1, h2 {
-  text-align: center;
+h1,
+h2 {
+    text-align: center;
 }
 
 h2 {
-  color: green;
+    color: green;
 }
 
 table {
-  border: 3px solid green;
-  margin-left: auto; 
-  margin-right: auto;
+    border: 3px solid green;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 thead {
-  background-color: yellowgreen;
+    background-color: yellowgreen;
 }
 
 td {
-  border-top: 1px solid green;
+    border-top: 1px solid green;
 }
 
 .highlight {
-  font-family: monospace;
-  background-color: rgb(165, 224, 165);
+    font-family: monospace;
+    background-color: rgb(255, 255, 136);
 }
 
 body {
-  background-color: lightgray;
+    background-color: lightgray;
+}
